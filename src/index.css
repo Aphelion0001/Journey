@@ -14,7 +14,7 @@ body {
   position: fixed;
   inset: 0;
   z-index: -2;
-  background: #03130f;
+  background: #020617;
 }
 
 .ambient-pattern {
@@ -36,16 +36,33 @@ body {
   width: 2rem;
   height: 2rem;
   border-radius: 999px;
-  border: 1px solid rgba(74, 222, 128, 0.35);
-  color: rgba(209, 250, 229, 0.95);
-  background: rgba(16, 185, 129, 0.12);
+  border: 1px solid rgba(148, 163, 184, 0.2);
+  color: rgba(226, 232, 240, 0.7);
+  background: rgba(255, 255, 255, 0.03);
   text-decoration: none;
-  transition: transform 160ms ease, border-color 160ms ease, color 160ms ease, background 160ms ease;
+  transition: all 200ms ease;
 }
 
 .social-icon:hover {
-  transform: translateY(-1px);
-  border-color: rgba(134, 239, 172, 0.9);
-  color: #ecfdf5;
-  background: rgba(34, 197, 94, 0.24);
+  transform: translateY(-2px);
+  border-color: rgba(248, 250, 252, 0.8);
+  color: #f8fafc;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+@keyframes wave {
+  0% { transform: rotate(0deg); }
+  10% { transform: rotate(14deg); }
+  20% { transform: rotate(-8deg); }
+  30% { transform: rotate(14deg); }
+  40% { transform: rotate(-4deg); }
+  50% { transform: rotate(10deg); }
+  60% { transform: rotate(0deg); }
+  100% { transform: rotate(0deg); }
+}
+
+.animate-wave {
+  display: inline-block;
+  animation: wave 2.5s infinite;
+  transform-origin: 70% 70%;
 }

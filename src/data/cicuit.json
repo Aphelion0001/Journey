@@ -1,0 +1,49 @@
+{
+  "name": "Cicuit",
+  "logo": "/src/assets/circuit.svg",
+  "webLink": "https://cicuit.app",
+  "description": "An AI-powered writing and publishing assistant for creators.",
+  "dailyMetrics": [
+    {
+      "date": "2026-02-03",
+      "signUps": 34,
+      "revenue": 120
+    },
+    {
+      "date": "2026-02-04",
+      "signUps": 39,
+      "revenue": 145
+    },
+    {
+      "date": "2026-02-05",
+      "signUps": 42,
+      "revenue": 160
+    },
+    {
+      "date": "2026-02-06",
+      "signUps": 47,
+      "revenue": 185
+    },
+    {
+      "date": "2026-02-07",
+      "signUps": 51,
+      "revenue": 205
+    },
+    {
+      "date": "2026-02-08",
+      "signUps": 55,
+      "revenue": 230
+    },
+    {
+      "date": "2026-02-09",
+      "signUps": 59,
+      "revenue": 250
+    }
+  ],
+  "whatIDone": [
+    "Built landing page and project branding",
+    "Set up signup flow and analytics tracking",
+    "Added payment integration and pricing plans",
+    "Improved onboarding emails and activation funnel"
+  ]
+}
