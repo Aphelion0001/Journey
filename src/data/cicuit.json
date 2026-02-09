@@ -1,49 +1,53 @@
 {
-  "name": "Cicuit",
-  "logo": "/src/assets/circuit.svg",
-  "webLink": "https://cicuit.app",
-  "description": "An AI-powered writing and publishing assistant for creators.",
-  "dailyMetrics": [
+  "name": "Circuit",
+  "logoKey": "circuit",
+  "tagline": "Educational platform where people learn by experimenting",
+  "website": "https://circuit-p.netlify.app/",
+  "updates": [
     {
-      "date": "2026-02-03",
-      "signUps": 34,
-      "revenue": 120
+      "revenue": "$0",
+      "onWaitlist": 18,
+      "workDone": [
+        "Defined experiment flow.",
+        "Mapped initial lesson structure."
+      ],
+      "status": "done"
     },
     {
-      "date": "2026-02-04",
-      "signUps": 39,
-      "revenue": 145
+      "revenue": "$49",
+      "onWaitlist": 34,
+      "workDone": [
+        "Built interactive challenge UI.",
+        "Set up baseline progress tracking."
+      ],
+      "status": "done"
     },
     {
-      "date": "2026-02-05",
-      "signUps": 42,
-      "revenue": 160
+      "revenue": "$79",
+      "onWaitlist": 46,
+      "workDone": [
+        "Added guided hints for each challenge step.",
+        "Introduced instant feedback loops."
+      ],
+      "status": "done"
     },
     {
-      "date": "2026-02-06",
-      "signUps": 47,
-      "revenue": 185
+      "revenue": "$109",
+      "onWaitlist": 51,
+      "workDone": [
+        "Refining mobile interactions for the lab canvas.",
+        "Improving touch gesture responsiveness."
+      ],
+      "status": "current"
     },
     {
-      "date": "2026-02-07",
-      "signUps": 51,
-      "revenue": 205
-    },
-    {
-      "date": "2026-02-08",
-      "signUps": 55,
-      "revenue": 230
-    },
-    {
-      "date": "2026-02-09",
-      "signUps": 59,
-      "revenue": 250
+      "revenue": "TBD",
+      "onWaitlist": "___",
+      "workDone": [
+        "Preparing first cohort rollout from waitlist users.",
+        "Drafting onboarding checklist for new users."
+      ],
+      "status": "future"
     }
-  ],
-  "whatIDone": [
-    "Built landing page and project branding",
-    "Set up signup flow and analytics tracking",
-    "Added payment integration and pricing plans",
-    "Improved onboarding emails and activation funnel"
   ]
 }

@@ -1,0 +1,32 @@
+[
+  {
+    "key": "github",
+    "name": "GitHub",
+    "tooltip": "GitHub",
+    "url": "https://github.com/"
+  },
+  {
+    "key": "x",
+    "name": "X",
+    "tooltip": "X (Twitter)",
+    "url": "https://x.com/"
+  },
+  {
+    "key": "linkedin",
+    "name": "LinkedIn",
+    "tooltip": "LinkedIn",
+    "url": "https://www.linkedin.com/"
+  },
+  {
+    "key": "reddit",
+    "name": "Reddit",
+    "tooltip": "Reddit",
+    "url": "https://www.reddit.com/"
+  },
+  {
+    "key": "producthunt",
+    "name": "Product Hunt",
+    "tooltip": "Product Hunt",
+    "url": "https://www.producthunt.com/"
+  }
+]

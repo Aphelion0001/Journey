@@ -1,49 +1,53 @@
 {
   "name": "SaveTime",
-  "logo": "/src/assets/savetime.svg",
-  "webLink": "https://savetime.app",
-  "description": "A productivity automation app that saves time on repetitive tasks.",
-  "dailyMetrics": [
+  "logoKey": "savetime",
+  "tagline": "Analyze thousands of comments in seconds",
+  "website": "https://savetime07.netlify.app/",
+  "updates": [
     {
-      "date": "2026-02-03",
-      "signUps": 18,
-      "revenue": 80
+      "revenue": "$0",
+      "onWaitlist": 12,
+      "workDone": [
+        "Built ingestion pipeline for large comment datasets.",
+        "Added basic file validation and parsing."
+      ],
+      "status": "done"
     },
     {
-      "date": "2026-02-04",
-      "signUps": 21,
-      "revenue": 95
+      "revenue": "$29",
+      "onWaitlist": 26,
+      "workDone": [
+        "Implemented clustering for repeated user pain points.",
+        "Improved label quality for grouped issues."
+      ],
+      "status": "done"
     },
     {
-      "date": "2026-02-05",
-      "signUps": 23,
-      "revenue": 110
+      "revenue": "$59",
+      "onWaitlist": 38,
+      "workDone": [
+        "Added sentiment scoring with confidence signals.",
+        "Tuned thresholds for neutral vs. negative comments."
+      ],
+      "status": "done"
     },
     {
-      "date": "2026-02-06",
-      "signUps": 25,
-      "revenue": 125
+      "revenue": "$99",
+      "onWaitlist": 44,
+      "workDone": [
+        "Optimizing summary generation speed for heavy files.",
+        "Caching frequent analysis results."
+      ],
+      "status": "current"
     },
     {
-      "date": "2026-02-07",
-      "signUps": 28,
-      "revenue": 140
-    },
-    {
-      "date": "2026-02-08",
-      "signUps": 30,
-      "revenue": 155
-    },
-    {
-      "date": "2026-02-09",
-      "signUps": 33,
-      "revenue": 170
+      "revenue": "TBD",
+      "onWaitlist": "___",
+      "workDone": [
+        "Designing insights dashboard for action-ready outputs.",
+        "Planning KPI widgets for team-level reporting."
+      ],
+      "status": "future"
     }
-  ],
-  "whatIDone": [
-    "Created task automation engine",
-    "Added dashboard for saved-hours reporting",
-    "Integrated user feedback and bug fixes",
-    "Launched referral and retention campaigns"
   ]
 }
