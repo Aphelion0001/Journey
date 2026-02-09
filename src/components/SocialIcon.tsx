@@ -26,6 +26,21 @@ const socialIconMap: Record<string, ReactNode> = {
       <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm1.52 12.1h-2.1v3.71h-1.84V8.2h4.24c2.12 0 3.42 1.45 3.42 2.95s-1.3 2.95-3.42 2.95zm-.04-2.02h-2.06v2.03h2.06c.75 0 1.31-.4 1.31-1.01s-.56-1.02-1.31-1.02z" />
     </svg>
   ),
+  indiehackers: (
+    <svg viewBox="0 0 24 24" className="h-4 w-4 fill-current" aria-hidden="true">
+      <path d="M7 4h2v6h6V4h2v16h-2v-8H9v8H7V4z" />
+    </svg>
+  ),
+  youtube: (
+    <svg viewBox="0 0 24 24" className="h-4 w-4 fill-current" aria-hidden="true">
+      <path d="M23.5 6.2a2.97 2.97 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6a2.97 2.97 0 0 0-2.1 2.1C0 8.1 0 12 0 12s0 3.9.5 5.8a2.97 2.97 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a2.97 2.97 0 0 0 2.1-2.1c.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.6 15.4V8.6L15.5 12l-5.9 3.4z" />
+    </svg>
+  ),
+  instagram: (
+    <svg viewBox="0 0 24 24" className="h-4 w-4 fill-current" aria-hidden="true">
+      <path d="M7.75 2h8.5A5.75 5.75 0 0 1 22 7.75v8.5A5.75 5.75 0 0 1 16.25 22h-8.5A5.75 5.75 0 0 1 2 16.25v-8.5A5.75 5.75 0 0 1 7.75 2zm0 1.8A3.95 3.95 0 0 0 3.8 7.75v8.5a3.95 3.95 0 0 0 3.95 3.95h8.5a3.95 3.95 0 0 0 3.95-3.95v-8.5a3.95 3.95 0 0 0-3.95-3.95h-8.5zm8.95 1.35a1.15 1.15 0 1 1 0 2.3 1.15 1.15 0 0 1 0-2.3zM12 7a5 5 0 1 1 0 10 5 5 0 0 1 0-10zm0 1.8a3.2 3.2 0 1 0 0 6.4 3.2 3.2 0 0 0 0-6.4z" />
+    </svg>
+  ),
 };
 
 export function SocialIcon({ accountKey }: { accountKey: string }) {

@@ -3,30 +3,48 @@
     "key": "github",
     "name": "GitHub",
     "tooltip": "GitHub",
-    "url": "https://github.com/"
+    "url": "https://github.com/ptdatta"
   },
   {
     "key": "x",
     "name": "X",
     "tooltip": "X (Twitter)",
-    "url": "https://x.com/"
+    "url": "https://x.com/dattapt"
   },
   {
     "key": "linkedin",
     "name": "LinkedIn",
     "tooltip": "LinkedIn",
-    "url": "https://www.linkedin.com/"
+    "url": "https://www.linkedin.com/in/parthib-datta-90b29b1b4/"
   },
   {
     "key": "reddit",
     "name": "Reddit",
     "tooltip": "Reddit",
-    "url": "https://www.reddit.com/"
+    "url": "https://www.reddit.com/user/Novel-Ad-2584/"
   },
   {
     "key": "producthunt",
     "name": "Product Hunt",
     "tooltip": "Product Hunt",
-    "url": "https://www.producthunt.com/"
+    "url": "https://www.producthunt.com/@ptdatta"
+  },
+  {
+    "key": "indiehackers",
+    "name": "Indie Hackers",
+    "tooltip": "Indie Hackers",
+    "url": "https://www.indiehackers.com/ptdatta"
+  },
+  {
+    "key": "youtube",
+    "name": "YouTube",
+    "tooltip": "YouTube",
+    "url": "https://www.youtube.com/@parthibdatta1055"
+  },
+  {
+    "key": "instagram",
+    "name": "Instagram",
+    "tooltip": "Instagram",
+    "url": "https://www.instagram.com/ptdatta"
   }
 ]

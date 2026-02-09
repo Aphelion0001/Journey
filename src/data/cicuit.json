@@ -6,39 +6,11 @@
   "updates": [
     {
       "revenue": "$0",
-      "onWaitlist": 18,
+      "onWaitlist": 0,
       "workDone": [
         "Defined experiment flow.",
         "Mapped initial lesson structure."
-      ],
-      "status": "done"
-    },
-    {
-      "revenue": "$49",
-      "onWaitlist": 34,
-      "workDone": [
-        "Built interactive challenge UI.",
-        "Set up baseline progress tracking."
-      ],
-      "status": "done"
-    },
-    {
-      "revenue": "$79",
-      "onWaitlist": 46,
-      "workDone": [
-        "Added guided hints for each challenge step.",
-        "Introduced instant feedback loops."
-      ],
-      "status": "done"
-    },
-    {
-      "revenue": "$109",
-      "onWaitlist": 51,
-      "workDone": [
-        "Refining mobile interactions for the lab canvas.",
-        "Improving touch gesture responsiveness."
-      ],
-      "status": "current"
+      ]
     },
     {
       "revenue": "TBD",
@@ -46,8 +18,7 @@
       "workDone": [
         "Preparing first cohort rollout from waitlist users.",
         "Drafting onboarding checklist for new users."
-      ],
-      "status": "future"
+      ]
     }
   ]
 }

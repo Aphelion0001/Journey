@@ -24,7 +24,6 @@ export type SocialAccount = {
 
 export type RawDailyUpdate = Omit<DailyUpdate, 'day' | 'status' | 'workDone'> & {
   day?: string;
-  status: string;
   waitlistCount?: number;
   signUps?: number;
   workDone: string[] | string;

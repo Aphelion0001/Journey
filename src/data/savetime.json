@@ -6,39 +6,11 @@
   "updates": [
     {
       "revenue": "$0",
-      "onWaitlist": 12,
+      "onWaitlist": 0,
       "workDone": [
         "Built ingestion pipeline for large comment datasets.",
         "Added basic file validation and parsing."
-      ],
-      "status": "done"
-    },
-    {
-      "revenue": "$29",
-      "onWaitlist": 26,
-      "workDone": [
-        "Implemented clustering for repeated user pain points.",
-        "Improved label quality for grouped issues."
-      ],
-      "status": "done"
-    },
-    {
-      "revenue": "$59",
-      "onWaitlist": 38,
-      "workDone": [
-        "Added sentiment scoring with confidence signals.",
-        "Tuned thresholds for neutral vs. negative comments."
-      ],
-      "status": "done"
-    },
-    {
-      "revenue": "$99",
-      "onWaitlist": 44,
-      "workDone": [
-        "Optimizing summary generation speed for heavy files.",
-        "Caching frequent analysis results."
-      ],
-      "status": "current"
+      ]
     },
     {
       "revenue": "TBD",
@@ -46,8 +18,7 @@
       "workDone": [
         "Designing insights dashboard for action-ready outputs.",
         "Planning KPI widgets for team-level reporting."
-      ],
-      "status": "future"
+      ]
     }
   ]
 }
