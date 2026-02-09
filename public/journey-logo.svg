@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Journey logo">
+  <defs>
+    <linearGradient id="journeyPath" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="24" fill="#0f172a" />
+  <path d="M28 88c14-28 24-40 36-40 10 0 16 9 21 16 4 6 7 10 12 10 5 0 8-3 12-10" fill="none" stroke="url(#journeyPath)" stroke-width="10" stroke-linecap="round" />
+  <circle cx="28" cy="88" r="8" fill="#22d3ee" />
+  <circle cx="109" cy="64" r="8" fill="#34d399" />
+</svg>
