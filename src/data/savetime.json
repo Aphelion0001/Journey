@@ -8,16 +8,16 @@
       "revenue": "$0",
       "onWaitlist": 0,
       "workDone": [
-        "Built ingestion pipeline for large comment datasets.",
-        "Added basic file validation and parsing."
+        "Created the initial landing and waitlist page.",
+        "Build the platfrom for basic comment analysis."
       ]
     },
     {
       "revenue": "TBD",
       "onWaitlist": "___",
       "workDone": [
-        "Designing insights dashboard for action-ready outputs.",
-        "Planning KPI widgets for team-level reporting."
+        "Cold dm people to join in the waitlist.",
+        "More development of the platform."
       ]
     }
   ]
