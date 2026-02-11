@@ -36,6 +36,12 @@
     "url": "https://www.indiehackers.com/ptdatta"
   },
   {
+    "key": "peerlist",
+    "name": "Peerlist",
+    "tooltip": "Peerlist",
+    "url": "https://peerlist.io/ptdatta"
+  },
+  {
     "key": "youtube",
     "name": "YouTube",
     "tooltip": "YouTube",

@@ -31,6 +31,12 @@ const socialIconMap: Record<string, ReactNode> = {
       <path d="M7 4h2v6h6V4h2v16h-2v-8H9v8H7V4z" />
     </svg>
   ),
+  peerlist: (
+    <svg viewBox="0 0 24 24" className="h-4 w-4 fill-current" aria-hidden="true">
+      <path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm0 2a8 8 0 1 1 0 16 8 8 0 0 1 0-16z" />
+      <path d="M9 7h4a3.5 3.5 0 0 1 0 7H11v3H9V7zm2 2v3h2a1.5 1.5 0 0 0 0-3h-2z" />
+    </svg>
+  ),
   youtube: (
     <svg viewBox="0 0 24 24" className="h-4 w-4 fill-current" aria-hidden="true">
       <path d="M23.5 6.2a2.97 2.97 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6a2.97 2.97 0 0 0-2.1 2.1C0 8.1 0 12 0 12s0 3.9.5 5.8a2.97 2.97 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a2.97 2.97 0 0 0 2.1-2.1c.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.6 15.4V8.6L15.5 12l-5.9 3.4z" />
